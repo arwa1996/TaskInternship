@@ -1,0 +1,78 @@
+[
+  {
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky"
+      }
+    ],
+    "main": {
+      "temp": 36,
+      "day": "Friday",
+      "temp_min": 36.15,
+      "temp_max": 37.04
+    },
+    "timezone": 7200,
+    "id": 360630,
+    "name": "Cairo",
+    "cod": 200
+  },
+  {
+    "weather": [
+      {
+        "id": 801,
+        "main": "Clear",
+        "description": "clear sky"
+      }
+    ],
+    "main": {
+      "temp": 38,
+      "day": "Saturday",
+      "temp_min": 36.15,
+      "temp_max": 23.04
+    },
+    "timezone": 7200,
+    "id": 360630,
+    "name": "Cairo",
+    "cod": 200
+  },
+  {
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clear",
+        "description": "clear sky"
+      }
+    ],
+    "main": {
+      "temp": 40,
+      "day": "Sunday",
+      "temp_min": 36.15,
+      "temp_max": 24.04
+    },
+    "timezone": 7200,
+    "id": 360630,
+    "name": "Cairo",
+    "cod": 200
+  },
+  {
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clear",
+        "description": "clear sky"
+      }
+    ],
+    "main": {
+      "temp": 37,
+      "day": "Monday",
+      "temp_min": 37.15,
+      "temp_max": 25.04
+    },
+    "timezone": 7200,
+    "id": 360630,
+    "name": "Cairo",
+    "cod": 200
+  }
+]
