@@ -10,7 +10,6 @@ const weatherItems = () => {
     return (
       <div className={img}>
         <h3 className="weather-title">
-          {" "}
           Temperature for {item.main.day} : {item.main.temp} °C
         </h3>
       </div>
