@@ -6,7 +6,9 @@ const { Header, Footer, Content } = Layout;
 
 const layout = () => (
   <Layout>
-    <Header className="site-layout-header">Weather For Four Days Only</Header>
+    <Header className="site-layout-header">
+      Weather Of Cairo For Four Days
+    </Header>
     <Content className="site-layout-content">
       <WeatherCarousel />
     </Content>
